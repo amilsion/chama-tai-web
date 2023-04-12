@@ -8,7 +8,6 @@
 .buildlog/
 .history
 .svn/
-.fvm/
 
 # IntelliJ related
 *.iml
@@ -25,6 +24,7 @@
 **/doc/api/
 **/ios/Flutter/.last_build_id
 .dart_tool/
+.fvm/
 .flutter-plugins
 .flutter-plugins-dependencies
 .packages
